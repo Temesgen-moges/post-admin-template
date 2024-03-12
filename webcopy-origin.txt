@@ -1,0 +1,2632 @@
+Uri: https://dreamspos.dreamstechnologies.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min-1.js
+Content Type: application/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min-1.js
+Content Type: application/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/activities.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\activities-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/add-sales.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\add-sales-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/addbrand.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\addbrand-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/addcategory.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\addcategory-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/addcustomer.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\addcustomer-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/addproduct.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\addproduct-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/addpurchase.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\addpurchase-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/addquotation.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\addquotation-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/addstore.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\addstore-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/addsupplier.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\addsupplier-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/addtransfer.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\addtransfer-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/adduser.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\adduser-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\css\animate-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/css/flowbite.min.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\css\flowbite.min-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/css/index.min.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\css\index.min-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/css/jquery.dataTables.min.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\css\jquery.dataTables.min-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/fonts/Nunito-Bold.woff
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\fonts\Nunito-Bold-1.woff
+Content Type: font/woff
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/fonts/Nunito-Bold.woff2
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\fonts\Nunito-Bold-1.woff2
+Content Type: font/woff2
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/fonts/Nunito-Medium.woff
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\fonts\Nunito-Medium-1.woff
+Content Type: font/woff
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/fonts/Nunito-Medium.woff2
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\fonts\Nunito-Medium-1.woff2
+Content Type: font/woff2
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/fonts/Nunito-Regular.woff
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\fonts\Nunito-Regular-1.woff
+Content Type: font/woff
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/fonts/Nunito-Regular.woff2
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\fonts\Nunito-Regular-1.woff2
+Content Type: font/woff2
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/fonts/Nunito-SemiBold.woff
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\fonts\Nunito-SemiBold-1.woff
+Content Type: font/woff
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/fonts/Nunito-SemiBold.woff2
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\fonts\Nunito-SemiBold-1.woff2
+Content Type: font/woff2
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/barcode1.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\barcode1-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/brand/adidas.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\brand\adidas-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/brand/colgate.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\brand\colgate-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/brand/samsung.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\brand\samsung-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/customer/customer1.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\customer\customer1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/customer/customer2.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\customer\customer2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/customer/customer3.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\customer\customer3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/customer/customer4.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\customer\customer4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/customer/customer5.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\customer\customer5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/customer/customer6.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\customer\customer6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/customer/customer7.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\customer\customer7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/customer/customer8.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\customer\customer8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/customer/profile2.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\customer\profile2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/customer/profile3.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\customer\profile3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/customer/profile4.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\customer\profile4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/customer/profile5.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\customer\profile5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/favicon.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\favicon-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/flags/de.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\flags\de-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/flags/es.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\flags\es-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/flags/fr.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\flags\fr-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/flags/us.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\flags\us-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/flags/us1.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\flags\us1-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/calendars.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\calendars-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/cash.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\cash-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/close-circle.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\close-circle-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/close-circle1.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\close-circle1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/closes.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\closes-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/dash1.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\dash1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/dash2.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\dash2-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/dash3.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\dash3-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/dash4.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\dash4-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/dashboard.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\dashboard-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/datepicker.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\datepicker-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/debitcard.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\debitcard-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/delete-2.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\delete-2-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/delete.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\delete-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/delete1.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\delete1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/dollar-square.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\dollar-square-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/dollar.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\dollar-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/download.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\download-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/dropdown.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\dropdown-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/edit-5.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\edit-5-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/edit-6.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\edit-6-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/edit-set.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\edit-set-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/edit.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\edit-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/ellipise1.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\ellipise1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/excel.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\excel-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/expense1.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\expense1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/eye.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\eye-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/eye1.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\eye1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/facebook.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\facebook-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/filter.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\filter-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/google.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\google-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/log-out.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\log-out-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/mail.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\mail-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/minus.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\minus-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/notification-bing.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\notification-bing-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/pause1.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\pause1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/pdf.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\pdf-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/places.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\places-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/plus-circle.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\plus-circle-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/plus.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\plus-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/plus1.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\plus1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/printer.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\printer-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/product.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\product-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/purchase1.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\purchase1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/quotation1.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\quotation1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/return1.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\return1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/reverse.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\reverse-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/sales1.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\sales1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/scan.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\scan-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/scanner.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\scanner-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/scanner1.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\scanner1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/scanners.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\scanners-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/search-white.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\search-white-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/search-whites.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\search-whites-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/search.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\search-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/settings.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\settings-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/time.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\time-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/transcation.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\transcation-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/transfer1.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\transfer1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/trash12.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\trash12-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/upload.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\upload-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/users1.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\users1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/icons/wallet1.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\icons\wallet1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/img-01.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\img-01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/img-02.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\img-02-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/img-03.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\img-03-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/img-04.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\img-04-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/img-05.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\img-05-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/login.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\login-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/logo-small.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\logo-small-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/logo-white.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\logo-white-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/logo.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\logo-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/noimage.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\noimage-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product1.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product10.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product11.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product12.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product13.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product13-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product15.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product15-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product17.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product17-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product2.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product22.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product22-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product23.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product23-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product24.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product24-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product29.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product29-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product3.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product30.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product30-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product31.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product31-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product32.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product32-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product34.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product34-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product35.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product35-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product36.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product36-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product37.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product37-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product4.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product44.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product44-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product45.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product45-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product46.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product46-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product47.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product47-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product48.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product48-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product49.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product49-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product5.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product51.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product51-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product52.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product52-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product53.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product53-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product54.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product54-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product55.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product55-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product56.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product56-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product57.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product57-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product58.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product58-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product6.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product60.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product60-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product61.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product61-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product62.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product62-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product63.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product63-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product64.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product64-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product65.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product65-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product66.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product66-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product67.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product67-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product68.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product68-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product69.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product69-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product7.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product8.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/product/product9.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\product\product9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/profiles/avatar-02.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\profiles\avatar-02-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/profiles/avatar-03.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\profiles\avatar-03-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/profiles/avatar-04.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\profiles\avatar-04-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/profiles/avatar-06.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\profiles\avatar-06-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/profiles/avatar-13.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\profiles\avatar-13-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/profiles/avatar-17.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\profiles\avatar-17-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/profiles/avator1.jpg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\profiles\avator1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/sort_asc.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\sort_asc-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\sort_asc_disabled-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/sort_both.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\sort_both-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/sort_desc.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\sort_desc-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/img/sort_desc_disabled.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\img\sort_desc_disabled-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/js/alpine.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\js\alpine.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/js/feather.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\js\feather.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/js/flowbite.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\js\flowbite-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/js/index.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\js\index.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/js/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\js\jquery-3.6.0.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/js/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\js\jquery-ui.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/js/jquery.dataTables.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\js\jquery.dataTables.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/js/jquery.maskedinput.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\js\jquery.maskedinput.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/js/jquery.slimscroll.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\js\jquery.slimscroll.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/js/mask.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\js\mask-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/js/moment.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\js\moment.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/js/script.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\js\script-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/alertify/alertify.min.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\alertify\alertify.min-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/alertify/alertify.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\alertify\alertify.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/alertify/custom-alertify.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\alertify\custom-alertify.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/apexchart/apexcharts.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\apexchart\apexcharts.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/apexchart/chart-data.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\apexchart\chart-data-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/chartjs/chart-data.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\chartjs\chart-data-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/chartjs/chart.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\chartjs\chart.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/clipboard/clipboard.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\clipboard\clipboard.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/countup/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\countup\jquery.counterup.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/countup/jquery.missofis-countdown.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\countup\jquery.missofis-countdown-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/countup/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\countup\jquery.waypoints.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/dragula/css/dragula.min.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\dragula\css\dragula.min-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/dragula/js/drag-drop.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\dragula\js\drag-drop.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/dragula/js/dragula.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\dragula\js\dragula.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fileupload/fileupload.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fileupload\fileupload.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/flot/chart-data.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\flot\chart-data-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/flot/jquery.flot.fillbetween.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\flot\jquery.flot.fillbetween-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/flot/jquery.flot.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\flot\jquery.flot-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/flot/jquery.flot.pie.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\flot\jquery.flot.pie-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\css\all.min-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/css/fontawesome.min.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\css\fontawesome.min-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-brands-400-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-brands-400-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-brands-400-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-brands-400-1.ttf
+Content Type: font/ttf
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-brands-400-1.woff
+Content Type: font/woff
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-brands-400-1.woff2
+Content Type: font/woff2
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-regular-400-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-regular-400-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-regular-400-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-regular-400-1.ttf
+Content Type: font/ttf
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-regular-400-1.woff
+Content Type: font/woff
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-regular-400-1.woff2
+Content Type: font/woff2
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-solid-900-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-solid-900-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-solid-900-1.svg
+Content Type: image/svg+xml
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-solid-900-1.ttf
+Content Type: font/ttf
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-solid-900-1.woff
+Content Type: font/woff
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fontawesome\webfonts\fa-solid-900-1.woff2
+Content Type: font/woff2
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fullcalendar/fullcalendar.min.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fullcalendar\fullcalendar.min-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fullcalendar/fullcalendar.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fullcalendar\fullcalendar.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/fullcalendar/jquery.fullcalendar.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\fullcalendar\jquery.fullcalendar-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/feather/feather.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\feather\feather-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/feather/fonts/feather-webfont.woff?t=1501841394106
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\feather\fonts\feather-webfont-1.woff
+Content Type: font/woff
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ad.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ad-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ae.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ae-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/af.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\af-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ag.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ag-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ai.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ai-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/al.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\al-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/am.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\am-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ao.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ao-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ar.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ar-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/as.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\as-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/at.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\at-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/au.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\au-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/aw.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\aw-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ax.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ax-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/az.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\az-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ba.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ba-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bb.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bb-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bd.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bd-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/be.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\be-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bf.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bf-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bg.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bg-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bh.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bh-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bi.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bi-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bj.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bj-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bl.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bl-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bm.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bm-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bn.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bn-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bo.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bo-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bq.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bq-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/br.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\br-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bs.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bs-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bt.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bt-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bv.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bv-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bw.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bw-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/by.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\by-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/bz.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\bz-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ca.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ca-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/cc.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\cc-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/cd.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\cd-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/cf.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\cf-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/cg.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\cg-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ch.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ch-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ci.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ci-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ck.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ck-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/cl.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\cl-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/cm.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\cm-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/cn.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\cn-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/co.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\co-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/cr.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\cr-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/cu.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\cu-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/cv.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\cv-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/cw.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\cw-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/cx.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\cx-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/cy.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\cy-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/cz.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\cz-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/de.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\de-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/dj.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\dj-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/dk.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\dk-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/dm.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\dm-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/do.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\do-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/dz.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\dz-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ec.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ec-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ee.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ee-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/eg.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\eg-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/er.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\er-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/es.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\es-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/et.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\et-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/fi.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\fi-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/fj.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\fj-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/fk.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\fk-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/fm.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\fm-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/fo.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\fo-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/fr.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\fr-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ga.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ga-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gb.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gb-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gd.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gd-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ge.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ge-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gf.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gf-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gg.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gg-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gh.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gh-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gi.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gi-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gl.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gl-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gm.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gm-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gn.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gn-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gp.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gp-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gq.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gq-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gr.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gr-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gs.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gs-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gt.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gt-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gu.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gu-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gw.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gw-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/gy.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\gy-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/hk.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\hk-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/hn.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\hn-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/hr.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\hr-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ht.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ht-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/hu.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\hu-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/id.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\id-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ie.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ie-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/il.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\il-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/im.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\im-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/in.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\in-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/io.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\io-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/iq.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\iq-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ir.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ir-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/is.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\is-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/it.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\it-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/je.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\je-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/jm.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\jm-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/jo.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\jo-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/jp.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\jp-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ke.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ke-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/kg.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\kg-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/kh.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\kh-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ki.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ki-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/km.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\km-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/kn.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\kn-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/kp.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\kp-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/kr.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\kr-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/kw.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\kw-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ky.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ky-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/kz.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\kz-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/la.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\la-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/lb.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\lb-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/lc.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\lc-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/li.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\li-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/lk.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\lk-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/lr.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\lr-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ls.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ls-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/lt.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\lt-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/lu.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\lu-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/lv.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\lv-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ly.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ly-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ma.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ma-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/mc.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\mc-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/md.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\md-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/me.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\me-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/mg.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\mg-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/mh.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\mh-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/mk.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\mk-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ml.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ml-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/mm.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\mm-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/mn.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\mn-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/mo.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\mo-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/mp.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\mp-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/mq.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\mq-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/mr.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\mr-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ms.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ms-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/mt.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\mt-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/mu.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\mu-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/mv.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\mv-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/mw.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\mw-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/mx.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\mx-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/my.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\my-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/mz.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\mz-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/na.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\na-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/nc.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\nc-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ne.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ne-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/nf.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\nf-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ng.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ng-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ni.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ni-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/nl.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\nl-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/no.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\no-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/np.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\np-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/nr.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\nr-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/nu.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\nu-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/nz.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\nz-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/om.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\om-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/pa.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\pa-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/pe.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\pe-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/pf.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\pf-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/pg.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\pg-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ph.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ph-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/pk.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\pk-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/pl.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\pl-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/pm.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\pm-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/pn.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\pn-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/pr.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\pr-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ps.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ps-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/pt.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\pt-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/pw.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\pw-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/py.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\py-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/qa.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\qa-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/re.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\re-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ro.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ro-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/rs.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\rs-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ru.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ru-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/rw.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\rw-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/sa.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\sa-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/sb.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\sb-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/sc.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\sc-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/sd.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\sd-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/se.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\se-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/sg.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\sg-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/sh.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\sh-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/si.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\si-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/sk.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\sk-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/sl.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\sl-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/sm.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\sm-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/sn.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\sn-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/so.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\so-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/sr.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\sr-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ss.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ss-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/st.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\st-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/sv.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\sv-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/sx.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\sx-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/sy.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\sy-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/sz.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\sz-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/tc.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\tc-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/td.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\td-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/tf.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\tf-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/tg.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\tg-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/th.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\th-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/tj.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\tj-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/tk.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\tk-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/tl.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\tl-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/tm.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\tm-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/tn.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\tn-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/to.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\to-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/tr.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\tr-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/tt.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\tt-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/tv.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\tv-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/tw.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\tw-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/tz.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\tz-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ua.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ua-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ug.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ug-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/um.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\um-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/us.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\us-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/uy.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\uy-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/uz.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\uz-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/va.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\va-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/vc.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\vc-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ve.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ve-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/vg.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\vg-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/vi.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\vi-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/vn.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\vn-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/vu.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\vu-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/wf.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\wf-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ws.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ws-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/ye.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\ye-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/yt.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\yt-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/za.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\za-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/zm.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\zm-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/flags/flags/zw.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\flags\flags\zw-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/ionic/fonts/ionicons.ttf?v=1.5.0
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\ionic\fonts\ionicons-1.ttf
+Content Type: font/ttf
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/ionic/ionicons.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\ionic\ionicons-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/pe7/fonts/Pe-icon-7-stroke.woff?d7yf1v
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\pe7\fonts\Pe-icon-7-stroke-1.woff
+Content Type: font/woff
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/pe7/pe-icon-7.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\pe7\pe-icon-7-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/themify/fonts/themify.woff?-fvbane
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\themify\fonts\themify-1.woff
+Content Type: font/woff
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/themify/themify.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\themify\themify-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/typicons/fonts/typicons.woff
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\typicons\fonts\typicons-1.woff
+Content Type: font/woff
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/typicons/typicons.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\typicons\typicons-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/weather/fonts/weathericons-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\weather\fonts\weathericons-regular-webfont-1.woff2
+Content Type: font/woff2
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/icons/weather/weathericons.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\icons\weather\weathericons-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/ion-rangeslider/css/ion.rangeSlider.min.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\ion-rangeslider\css\ion.rangeSlider.min-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/ion-rangeslider/js/custom-rangeslider.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\ion-rangeslider\js\custom-rangeslider-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/ion-rangeslider/js/ion.rangeSlider.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\ion-rangeslider\js\ion.rangeSlider.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/lightbox/glightbox.min.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\lightbox\glightbox.min-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/lightbox/glightbox.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\lightbox\glightbox.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/lightbox/lightbox.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\lightbox\lightbox-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/material/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\material\fonts\Material-Design-Iconic-Font-1.woff2
+Content Type: font/woff2
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/material/fonts/materialdesignicons-webfont.woff2?v=2.0.46
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\material\fonts\materialdesignicons-webfont-1.woff2
+Content Type: font/woff2
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/material/materialdesignicons.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\material\materialdesignicons-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/moment/moment.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\moment\moment.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/morris/chart-data.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\morris\chart-data-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/morris/morris.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\morris\morris.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/morris/raphael-min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\morris\raphael-min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/owlcarousel/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\owlcarousel\owl.carousel.min-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/owlcarousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\owlcarousel\owl.carousel.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/owlcarousel/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\owlcarousel\owl.theme.default.min-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/owlcarousel/owl.video.play.png
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\owlcarousel\owl.video.play-1.png
+Content Type: image/png
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/peity/chart-data.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\peity\chart-data-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/peity/jquery.peity.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\peity\jquery.peity.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/raty/custom.raty.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\raty\custom.raty-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/raty/jquery.raty.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\raty\jquery.raty-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/scrollbar/custom-scroll.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\scrollbar\custom-scroll-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/scrollbar/scroll.min.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\scrollbar\scroll.min-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/scrollbar/scrollbar.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\scrollbar\scrollbar.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/select2/css/select2.min.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\select2\css\select2.min-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/select2/js/custom-select.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\select2\js\custom-select-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/select2/js/select2.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\select2\js\select2.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/simpleline/fonts/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\simpleline\fonts\Simple-Line-Icons-1.woff2
+Content Type: font/woff2
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/simpleline/simple-line-icons.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\simpleline\simple-line-icons-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/stickynote/sticky.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\stickynote\sticky-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/stickynote/sticky.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\stickynote\sticky-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/sweetalert/sweetalert2.all.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\sweetalert\sweetalert2.all.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/sweetalert/sweetalerts.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\sweetalert\sweetalerts.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/toastr/toastr.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\toastr\toastr-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/toastr/toastr.min.js
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\toastr\toastr.min-1.js
+Content Type: text/javascript
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/assets/plugins/toastr/toatr.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\assets\plugins\toastr\toatr-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/barcode.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\barcode-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/blankpage.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\blankpage-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/brandlist.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\brandlist-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/calendar.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\calendar-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/categorylist.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\categorylist-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/chart-apex.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\chart-apex-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/chart-flot.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\chart-flot-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/chart-js.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\chart-js-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/chart-morris.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\chart-morris-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/chart-peity.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\chart-peity-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/chat.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\chat-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/clipboard.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\clipboard-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/components.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\components-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/counter.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\counter-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/countrieslist.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\countrieslist-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/createexpense.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\createexpense-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/createpermission.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\createpermission-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/createpurchasereturn.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\createpurchasereturn-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/createsalesreturn.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\createsalesreturn-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/createsalesreturns.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\createsalesreturns-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/currencysettings.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\currencysettings-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/customerlist.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\customerlist-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/customerreport.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\customerreport-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/data-tables.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\data-tables-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/dist/tailwind-dist.css
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\dist\tailwind-dist-1.css
+Content Type: text/css
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/drag-drop.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\drag-drop-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/edit-sales.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\edit-sales-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/editbrand.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\editbrand-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/editcategory.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\editcategory-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/editcountry.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\editcountry-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/editcustomer.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\editcustomer-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/editexpense.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\editexpense-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/editpermission.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\editpermission-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/editproduct.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\editproduct-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/editpurchase.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\editpurchase-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/editpurchasereturn.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\editpurchasereturn-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/editquotation.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\editquotation-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/editsalesreturn.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\editsalesreturn-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/editsalesreturns.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\editsalesreturns-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/editstate.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\editstate-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/editstore.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\editstore-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/editsubcategory.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\editsubcategory-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/editsupplier.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\editsupplier-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/edittransfer.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\edittransfer-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/edituser.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\edituser-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/email.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\email-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/emailsettings.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\emailsettings-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/error-404.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\error-404-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/error-500.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\error-500-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/expensecategory.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\expensecategory-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/expenselist.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\expenselist-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/forgetpassword.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\forgetpassword-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/form-basic-inputs.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\form-basic-inputs-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/form-fileupload.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\form-fileupload-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/form-horizontal.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\form-horizontal-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/form-input-groups.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\form-input-groups-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/form-mask.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\form-mask-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/form-select2.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\form-select2-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/form-vertical.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\form-vertical-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/generalsettings.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\generalsettings-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/grouppermissions.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\grouppermissions-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/icon-feather.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\icon-feather-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/icon-flag.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\icon-flag-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/icon-fontawesome.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\icon-fontawesome-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/icon-ionic.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\icon-ionic-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/icon-material.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\icon-material-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/icon-pe7.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\icon-pe7-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/icon-simpleline.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\icon-simpleline-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/icon-themify.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\icon-themify-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/icon-typicon.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\icon-typicon-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/icon-weather.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\icon-weather-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/importproduct.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\importproduct-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/importpurchase.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\importpurchase-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/importtransfer.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\importtransfer-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/index.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\index-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/inventoryreport.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\inventoryreport-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/invoicereport.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\invoicereport-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/lightbox.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\lightbox-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/newcountry.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\newcountry-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/newstate.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\newstate-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/newuser.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\newuser-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/newuseredit.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\newuseredit-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/notification.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\notification-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/paymentsettings.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\paymentsettings-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/popover.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\popover-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/pos.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\pos-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/product-details.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\product-details-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/productlist.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\productlist-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/profile.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\profile-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/purchaselist.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\purchaselist-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/purchaseorderreport.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\purchaseorderreport-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/purchasereport.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\purchasereport-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/purchasereturnlist.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\purchasereturnlist-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/quotationList.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\quotationList-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/rangeslider.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\rangeslider-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/rating.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\rating-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/ribbon.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\ribbon-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/sales-details.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\sales-details-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/saleslist.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\saleslist-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/salesreport.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\salesreport-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/salesreturnlist.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\salesreturnlist-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/salesreturnlists.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\salesreturnlists-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/scrollbar.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\scrollbar-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/signin.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\signin-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/signup.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\signup-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/spinner.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\spinner-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/statelist.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\statelist-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/stickynote.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\stickynote-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/storelist.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\storelist-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/subaddcategory.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\subaddcategory-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/subcategorylist.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\subcategorylist-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/supplierlist.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\supplierlist-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/supplierreport.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\supplierreport-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/sweetalerts.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\sweetalerts-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/tables-basic.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\tables-basic-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/taxrates.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\taxrates-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/timeline.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\timeline-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/toastr.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\toastr-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/tooltip.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\tooltip-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/transferlist.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\transferlist-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/userlist.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\userlist-1.html
+Content Type: text/html
+
+Uri: https://dreamspos.dreamstechnologies.com/tailwind/template/userlists.html
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\tailwind\template\userlists-1.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\icon-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons+Outlined
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\icon-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/materialicons/v141/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\s\materialicons\v141\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialiconsoutlined/v109/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcd.otf
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\s\materialiconsoutlined\v109\gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcd-1.otf
+Content Type: font/otf
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v166/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Downloaded Web Sites\dreamspos.dreamstechnologies.com\s\materialsymbolsoutlined\v166\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1n-q_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+

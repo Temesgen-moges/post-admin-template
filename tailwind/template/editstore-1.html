@@ -1,0 +1,544 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+<meta name="description" content="POS - Tailwind Admin Template">
+<meta name="keywords" content="admin, estimates, tailwind, business, corporate, creative, invoice, html5, responsive, Projects">
+<meta name="author" content="Dreamguys - Tailwind Admin Template">
+<meta name="robots" content="noindex, nofollow">
+<title>Dreams Pos admin template</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon-1.png">
+
+<link rel="stylesheet" href="assets/css/animate-1.css">
+
+<link rel="stylesheet" href="assets/plugins/select2/css/select2.min-1.css">
+
+<link rel="stylesheet" href="assets/plugins/fontawesome/css/fontawesome.min-1.css">
+<link rel="stylesheet" href="assets/plugins/fontawesome/css/all.min-1.css">
+
+<link rel="stylesheet" href="assets/css/jquery.dataTables.min-1.css">
+<link rel="stylesheet" href="assets/css/flowbite.min-1.css">
+<link rel="stylesheet" href="assets/css/index.min-1.css">
+<link rel="stylesheet" href="dist/tailwind-dist-1.css">
+</head>
+<body>
+<div id="global-loader">
+<div class="whirly-loader"> </div>
+</div>
+
+<div class="main-wrapper">
+
+<div class="header">
+
+<div class="header-left active">
+<a href="index-1.html" class="logo logo-normal">
+<img src="assets/img/logo-1.png" alt="">
+</a>
+<a href="index-1.html" class="logo logo-white">
+<img src="assets/img/logo-white-1.png" alt="">
+</a>
+<a href="index-1.html" class="logo-small">
+<img src="assets/img/logo-small-1.png" alt="">
+</a>
+<a id="toggle_btn" href="javascript:void(0);">
+</a>
+</div>
+
+<a id="mobile_btn" class="mobile_btn" href="#sidebar">
+<span class="bar-icon">
+<span></span>
+<span></span>
+<span></span>
+</span>
+</a>
+
+<ul class="nav user-menu">
+
+<li class="nav-item">
+<div class="top-nav-search">
+<a href="javascript:void(0);" class="responsive-search">
+<i class="fa fa-search"></i>
+</a>
+<form action="#">
+<div class="searchinputs">
+<input type="text" placeholder="Search Here ...">
+<div class="search-addon">
+<span><img src="assets/img/icons/closes-1.svg" alt="img"></span>
+</div>
+</div>
+<a class="btn" id="searchdiv"><img src="assets/img/icons/search-1.svg" alt="img"></a>
+</form>
+</div>
+</li>
+
+
+<li class="nav-item dropdown has-arrow flag-nav">
+<a class="nav-link dropdown-toggle focus:bg-[#eeeeee]" data-dropdown-toggle="dropdown" href="javascript:void(0);" role="button">
+<img src="assets/img/flags/us1-1.png" alt="" height="20">
+</a>
+<div id="dropdown" class="hidden dropdown-menu dropdown-menu-right !translate-x-0 !translate-y-0 !top-[60px] bg-white">
+<a href="javascript:void(0);" class="dropdown-item">
+<img src="assets/img/flags/us-1.png" alt="" height="16"> English
+</a>
+<a href="javascript:void(0);" class="dropdown-item">
+<img src="assets/img/flags/fr-1.png" alt="" height="16"> French
+</a>
+<a href="javascript:void(0);" class="dropdown-item">
+<img src="assets/img/flags/es-1.png" alt="" height="16"> Spanish
+</a>
+<a href="javascript:void(0);" class="dropdown-item">
+<img src="assets/img/flags/de-1.png" alt="" height="16"> German
+</a>
+</div>
+</li>
+
+
+<li class="nav-item dropdown">
+<a href="javascript:void(0);" class="dropdown-toggle focus:bg-[#eeeeee] nav-link" data-dropdown-toggle="dropdownNotify">
+<img src="assets/img/icons/notification-bing-1.svg" alt="img"> <span class="badge rounded-pill rounded-full">4</span>
+</a>
+<div id="dropdownNotify" class="hidden dropdown-menu notifications !inset-auto !translate-y-0 !right-0 !top-[60px] bg-white">
+<div class="topnav-dropdown-header">
+<span class="notification-title">Notifications</span>
+<a href="javascript:void(0)" class="clear-noti"> Clear All </a>
+</div>
+<div class="noti-content">
+<ul class="notification-list">
+<li class="notification-message">
+<a href="activities-1.html">
+<div class="media flex">
+<span class="avatar flex-shrink-0">
+<img alt="" src="assets/img/profiles/avatar-02-1.jpg">
+</span>
+<div class="media-body flex-grow">
+<p class="noti-details"><span class="noti-title">John Doe</span> added new task <span class="noti-title">Patient appointment booking</span></p>
+<p class="noti-time"><span class="notification-time">4 mins ago</span></p>
+</div>
+</div>
+</a>
+</li>
+<li class="notification-message">
+<a href="activities-1.html">
+<div class="media flex">
+<span class="avatar flex-shrink-0">
+<img alt="" src="assets/img/profiles/avatar-03-1.jpg">
+</span>
+<div class="media-body flex-grow">
+<p class="noti-details"><span class="noti-title">Tarah Shropshire</span> changed the task name <span class="noti-title">Appointment booking with payment gateway</span></p>
+<p class="noti-time"><span class="notification-time">6 mins ago</span></p>
+</div>
+</div>
+</a>
+</li>
+<li class="notification-message">
+<a href="activities-1.html">
+<div class="media flex">
+<span class="avatar flex-shrink-0">
+<img alt="" src="assets/img/profiles/avatar-06-1.jpg">
+</span>
+<div class="media-body flex-grow">
+<p class="noti-details"><span class="noti-title">Misty Tison</span> added <span class="noti-title">Domenic Houston</span> and <span class="noti-title">Claire Mapes</span> to project <span class="noti-title">Doctor available module</span></p>
+<p class="noti-time"><span class="notification-time">8 mins ago</span></p>
+</div>
+</div>
+</a>
+</li>
+<li class="notification-message">
+<a href="activities-1.html">
+<div class="media flex">
+<span class="avatar flex-shrink-0">
+<img alt="" src="assets/img/profiles/avatar-17-1.jpg">
+</span>
+<div class="media-body flex-grow">
+<p class="noti-details"><span class="noti-title">Rolland Webber</span> completed task <span class="noti-title">Patient and Doctor video conferencing</span></p>
+<p class="noti-time"><span class="notification-time">12 mins ago</span></p>
+</div>
+</div>
+</a>
+</li>
+<li class="notification-message">
+<a href="activities-1.html">
+<div class="media flex">
+<span class="avatar flex-shrink-0">
+<img alt="" src="assets/img/profiles/avatar-13-1.jpg">
+</span>
+<div class="media-body flex-grow">
+<p class="noti-details"><span class="noti-title">Bernardo Galaviz</span> added new task <span class="noti-title">Private chat module</span></p>
+<p class="noti-time"><span class="notification-time">2 days ago</span></p>
+</div>
+</div>
+</a>
+</li>
+</ul>
+</div>
+<div class="topnav-dropdown-footer">
+<a href="activities-1.html">View all Notifications</a>
+</div>
+</div>
+</li>
+
+<li class="nav-item dropdown has-arrow main-drop">
+<a href="javascript:void(0);" class="dropdown-toggle focus:bg-[#eeeeee] nav-link userset" data-dropdown-toggle="dropdownProfile">
+<span class="user-img"><img src="assets/img/profiles/avator1-1.jpg" alt="">
+<span class="status online"></span></span>
+</a>
+<div id="dropdownProfile" class="hidden dropdown-menu menu-drop-user !inset-auto !translate-y-0 !right-0 !top-[60px] bg-white">
+<div class="profilename">
+<div class="profileset">
+<span class="user-img"><img src="assets/img/profiles/avator1-1.jpg" alt="">
+<span class="status online"></span></span>
+<div class="profilesets">
+<h6>John Doe</h6>
+<h5>Admin</h5>
+</div>
+</div>
+<hr class="!m-0">
+<a class="dropdown-item" href="profile-1.html"> <i class="mr-2" data-feather="user"></i> My Profile</a>
+<a class="dropdown-item" href="generalsettings-1.html"><i class="mr-2" data-feather="settings"></i>Settings</a>
+<hr class="!m-0">
+<a class="dropdown-item logout !pb-0" href="signin-1.html"><img src="assets/img/icons/log-out-1.svg" class="mr-2" alt="img">Logout</a>
+</div>
+</div>
+</li>
+</ul>
+
+
+<div class="dropdown mobile-user-menu">
+<a href="javascript:void(0);" class="nav-link dropdown-toggle" data-dropdown-toggle="dropdownMobile" aria-expanded="false"><i class="fa fa-ellipsis-v"></i></a>
+<div class="hidden dropdown-menu dropdown-menu-right" id="dropdownMobile">
+<a class="dropdown-item" href="profile-1.html">My Profile</a>
+<a class="dropdown-item" href="generalsettings-1.html">Settings</a>
+<a class="dropdown-item" href="signin-1.html">Logout</a>
+</div>
+</div>
+
+</div>
+
+
+<div class="sidebar" id="sidebar">
+<div class="sidebar-inner slimscroll">
+<div id="sidebar-menu" class="sidebar-menu">
+<ul>
+<li>
+<a href="index-1.html"><img src="assets/img/icons/dashboard-1.svg" alt="img"><span> Dashboard</span> </a>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><img src="assets/img/icons/product-1.svg" alt="img"><span> Product</span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="productlist-1.html">Product List</a></li>
+<li><a href="addproduct-1.html">Add Product</a></li>
+<li><a href="categorylist-1.html">Category List</a></li>
+<li><a href="addcategory-1.html">Add Category</a></li>
+<li><a href="subcategorylist-1.html">Sub Category List</a></li>
+<li><a href="subaddcategory-1.html">Add Sub Category</a></li>
+<li><a href="brandlist-1.html">Brand List</a></li>
+<li><a href="addbrand-1.html">Add Brand</a></li>
+<li><a href="importproduct-1.html">Import Products</a></li>
+<li><a href="barcode-1.html">Print Barcode</a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><img src="assets/img/icons/sales1-1.svg" alt="img"><span> Sales</span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="saleslist-1.html">Sales List</a></li>
+<li><a href="pos-1.html">POS</a></li>
+<li><a href="pos-1.html">New Sales</a></li>
+<li><a href="salesreturnlists-1.html">Sales Return List</a></li>
+<li><a href="createsalesreturns-1.html">New Sales Return</a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><img src="assets/img/icons/purchase1-1.svg" alt="img"><span> Purchase</span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="purchaselist-1.html">Purchase List</a></li>
+<li><a href="addpurchase-1.html">Add Purchase</a></li>
+<li><a href="importpurchase-1.html">Import Purchase</a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><img src="assets/img/icons/expense1-1.svg" alt="img"><span> Expense</span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="expenselist-1.html">Expense List</a></li>
+<li><a href="createexpense-1.html">Add Expense</a></li>
+<li><a href="expensecategory-1.html">Expense Category</a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><img src="assets/img/icons/quotation1-1.svg" alt="img"><span> Quotation</span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="quotationList-1.html">Quotation List</a></li>
+<li><a href="addquotation-1.html">Add Quotation</a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><img src="assets/img/icons/transfer1-1.svg" alt="img"><span> Transfer</span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="transferlist-1.html">Transfer List</a></li>
+<li><a href="addtransfer-1.html">Add Transfer </a></li>
+<li><a href="importtransfer-1.html">Import Transfer </a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><img src="assets/img/icons/return1-1.svg" alt="img"><span> Return</span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="salesreturnlist-1.html">Sales Return List</a></li>
+<li><a href="createsalesreturn-1.html">Add Sales Return </a></li>
+<li><a href="purchasereturnlist-1.html">Purchase Return List</a></li>
+<li><a href="createpurchasereturn-1.html">Add Purchase Return </a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><img src="assets/img/icons/users1-1.svg" alt="img"><span> People</span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="customerlist-1.html">Customer List</a></li>
+<li><a href="addcustomer-1.html">Add Customer </a></li>
+<li><a href="supplierlist-1.html">Supplier List</a></li>
+<li><a href="addsupplier-1.html">Add Supplier </a></li>
+<li><a href="userlist-1.html">User List</a></li>
+<li><a href="adduser-1.html">Add User</a></li>
+<li><a href="storelist-1.html">Store List</a></li>
+<li><a href="addstore-1.html" class="active">Add Store</a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><img src="assets/img/icons/places-1.svg" alt="img"><span> Places</span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="newcountry-1.html">New Country</a></li>
+<li><a href="countrieslist-1.html">Countries list</a></li>
+<li><a href="newstate-1.html">New State </a></li>
+<li><a href="statelist-1.html">State list</a></li>
+</ul>
+</li>
+<li>
+<a href="components-1.html"><i data-feather="layers"></i><span> Components</span> </a>
+</li>
+<li>
+<a href="blankpage-1.html"><i data-feather="file"></i><span> Blank Page</span> </a>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><i data-feather="alert-octagon"></i> <span> Error Pages </span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="error-404-1.html">404 Error </a></li>
+<li><a href="error-500-1.html">500 Error </a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><i data-feather="box"></i> <span>Elements </span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="sweetalerts-1.html">Sweet Alerts</a></li>
+<li><a href="tooltip-1.html">Tooltip</a></li>
+<li><a href="popover-1.html">Popover</a></li>
+<li><a href="ribbon-1.html">Ribbon</a></li>
+<li><a href="clipboard-1.html">Clipboard</a></li>
+<li><a href="drag-drop-1.html">Drag & Drop</a></li>
+<li><a href="rangeslider-1.html">Range Slider</a></li>
+<li><a href="rating-1.html">Rating</a></li>
+<li><a href="toastr-1.html">Toastr</a></li>
+<li><a href="counter-1.html">Counter</a></li>
+<li><a href="scrollbar-1.html">Scrollbar</a></li>
+<li><a href="spinner-1.html">Spinner</a></li>
+<li><a href="notification-1.html">Notification</a></li>
+<li><a href="lightbox-1.html">Lightbox</a></li>
+<li><a href="stickynote-1.html">Sticky Note</a></li>
+<li><a href="timeline-1.html">Timeline</a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><i data-feather="bar-chart-2"></i> <span> Charts </span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="chart-apex-1.html">Apex Charts</a></li>
+<li><a href="chart-js-1.html">Chart Js</a></li>
+<li><a href="chart-morris-1.html">Morris Charts</a></li>
+<li><a href="chart-flot-1.html">Flot Charts</a></li>
+<li><a href="chart-peity-1.html">Peity Charts</a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><i data-feather="award"></i><span> Icons </span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="icon-fontawesome-1.html">Fontawesome Icons</a></li>
+<li><a href="icon-feather-1.html">Feather Icons</a></li>
+<li><a href="icon-ionic-1.html">Ionic Icons</a></li>
+<li><a href="icon-material-1.html">Material Icons</a></li>
+<li><a href="icon-pe7-1.html">Pe7 Icons</a></li>
+<li><a href="icon-simpleline-1.html">Simpleline Icons</a></li>
+<li><a href="icon-themify-1.html">Themify Icons</a></li>
+<li><a href="icon-weather-1.html">Weather Icons</a></li>
+<li><a href="icon-typicon-1.html">Typicon Icons</a></li>
+<li><a href="icon-flag-1.html">Flag Icons</a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><i data-feather="columns"></i> <span> Forms </span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="form-basic-inputs-1.html">Basic Inputs </a></li>
+<li><a href="form-input-groups-1.html">Input Groups </a></li>
+<li><a href="form-horizontal-1.html">Horizontal Form </a></li>
+<li><a href="form-vertical-1.html"> Vertical Form </a></li>
+<li><a href="form-mask-1.html">Form Mask </a></li>
+<li><a href="form-select2-1.html">Form Select2 </a></li>
+<li><a href="form-fileupload-1.html">File Upload </a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><i data-feather="layout"></i> <span> Table </span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="tables-basic-1.html">Basic Tables </a></li>
+<li><a href="data-tables-1.html">Data Table </a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><img src="assets/img/icons/product-1.svg" alt="img"><span> Application</span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="chat-1.html">Chat</a></li>
+<li><a href="calendar-1.html">Calendar</a></li>
+<li><a href="email-1.html">Email</a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><img src="assets/img/icons/time-1.svg" alt="img"><span> Report</span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="purchaseorderreport-1.html">Purchase order report</a></li>
+<li><a href="inventoryreport-1.html">Inventory Report</a></li>
+<li><a href="salesreport-1.html">Sales Report</a></li>
+<li><a href="invoicereport-1.html">Invoice Report</a></li>
+<li><a href="purchasereport-1.html">Purchase Report</a></li>
+<li><a href="supplierreport-1.html">Supplier Report</a></li>
+<li><a href="customerreport-1.html">Customer Report</a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><img src="assets/img/icons/users1-1.svg" alt="img"><span> Users</span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="newuser-1.html">New User </a></li>
+<li><a href="userlists-1.html">Users List</a></li>
+</ul>
+</li>
+<li class="submenu">
+<a href="javascript:void(0);"><img src="assets/img/icons/settings-1.svg" alt="img"><span> Settings</span> <span class="menu-arrow"></span></a>
+<ul>
+<li><a href="generalsettings-1.html">General Settings</a></li>
+<li><a href="emailsettings-1.html">Email Settings</a></li>
+<li><a href="paymentsettings-1.html">Payment Settings</a></li>
+<li><a href="currencysettings-1.html">Currency Settings</a></li>
+<li><a href="grouppermissions-1.html">Group Permissions</a></li>
+<li><a href="taxrates-1.html">Tax Rates</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="page-wrapper">
+<div class="content">
+<div class="page-header">
+<div class="page-title">
+<h4>Store Management</h4>
+<h6>Edit/Update Store</h6>
+</div>
+</div>
+
+<div class="card">
+<div class="card-body">
+<div class="sm:grid sm:grid-cols-2 lg:grid-cols-4 gap-x-6">
+<div>
+<div class="form-group">
+<label>Store Name</label>
+<input type="text" value="Mac">
+</div>
+</div>
+<div>
+<div class="form-group">
+<label>User Name</label>
+<input type="text" value="James">
+</div>
+</div>
+<div>
+<div class="form-group">
+<label>Password</label>
+<div class="pass-group">
+<input type="password" class=" pass-input" value="123456">
+<span class="fas toggle-password fa-eye-slash"></span>
+</div>
+</div>
+</div>
+<div>
+<div class="form-group">
+<label>Phone</label>
+<input type="text" value="123456879">
+</div>
+</div>
+<div>
+<div class="form-group">
+<label>Email</label>
+<input type="text" value="abc@gmail.com">
+</div>
+</div>
+<div class="sm:col-span-2 lg:col-span-4">
+<div class="form-group">
+<label> Store Image</label>
+<div class="image-upload">
+<input type="file">
+<div class="image-uploads">
+<img src="assets/img/icons/upload-1.svg" alt="img">
+<h4>Drag and drop a file to upload</h4>
+</div>
+</div>
+</div>
+</div>
+<div class="sm:col-span-2 lg:col-span-4">
+<div class="product-list">
+<ul class="!ml-[-15px]">
+<li class="!pl-0">
+<div class="productviews">
+<div class="productviewsimg">
+<img src="assets/img/icons/macbook.svg" alt="img">
+</div>
+<div class="productviewscontent">
+<div class="productviewsname">
+<h2>macbookpro.jpg</h2>
+<h3>581kb</h3>
+</div>
+<a href="javascript:void(0);" class="hideset">x</a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="sm:col-span-2 lg:col-span-4">
+<a href="javascript:void(0);" class="btn btn-submit mr-2">Submit</a>
+<a href="javascript:void(0);" class="btn btn-cancel">Cancel</a>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+<script src="assets/js/jquery-3.6.0.min-1.js" type="59c31849761ccf79083f07f7-text/javascript"></script>
+
+<script src="assets/js/feather.min-1.js" type="59c31849761ccf79083f07f7-text/javascript"></script>
+
+<script src="assets/js/jquery.slimscroll.min-1.js" type="59c31849761ccf79083f07f7-text/javascript"></script>
+
+<script src="assets/js/jquery.dataTables.min-1.js" type="59c31849761ccf79083f07f7-text/javascript"></script>
+
+<script src="assets/js/flowbite-1.js" type="59c31849761ccf79083f07f7-text/javascript"></script>
+<script src="assets/js/alpine.min-1.js" defer="" type="59c31849761ccf79083f07f7-text/javascript"></script>
+
+<script src="assets/plugins/select2/js/select2.min-1.js" type="59c31849761ccf79083f07f7-text/javascript"></script>
+
+<script src="assets/plugins/sweetalert/sweetalert2.all.min-1.js" type="59c31849761ccf79083f07f7-text/javascript"></script>
+<script src="assets/plugins/sweetalert/sweetalerts.min-1.js" type="59c31849761ccf79083f07f7-text/javascript"></script>
+
+<script src="assets/js/flowbite-1.js" type="59c31849761ccf79083f07f7-text/javascript"></script>
+<script src="assets/js/script-1.js" type="59c31849761ccf79083f07f7-text/javascript"></script>
+<script src="../../cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min-1.js" data-cf-settings="59c31849761ccf79083f07f7-|49" defer=""></script></body>
+</html>
